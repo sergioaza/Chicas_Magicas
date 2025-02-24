@@ -1,0 +1,6 @@
+com\github\chicasmagicas\Main.class
+com\github\chicasmagicas\Repositorio\ChicaMagicaRepositorio.class
+com\github\chicasmagicas\model\Estado.class
+com\github\chicasmagicas\Service\ChicaMagicaService.class
+com\github\chicasmagicas\Controller\ChicaMagicaController.class
+com\github\chicasmagicas\model\ChicaMagica.class
