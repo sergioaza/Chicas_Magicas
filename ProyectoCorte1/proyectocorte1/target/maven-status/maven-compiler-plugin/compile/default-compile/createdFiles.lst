@@ -1,0 +1,6 @@
+com\github\chicasmagicas\Main.class
+com\github\chicasmagicas\repository\ChicaMagicaRepository.class
+com\github\chicasmagicas\Controller\rest\ChicaMagicaRestController.class
+com\github\chicasmagicas\Controller\advice\ChicaMagicaNotFoundAdvice.class
+com\github\chicasmagicas\service\exception\ChicaMagicaNotFoundException.class
+com\github\chicasmagicas\model\ChicaMagica.class

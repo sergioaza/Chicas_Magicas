@@ -1,6 +1,7 @@
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Controller\advice\ChicaMagicaNotFoundAdvice.java
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Controller\rest\ChicaMagicaRestController.java
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Main.java
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\model\ChicaMagica.java
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\repository\ChicaMagicaRepository.java
-C:\Users\edgar\Desktop\Proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\service\exception\ChicaMagicaNotFoundException.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\config\CorsConfig.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Controller\advice\ChicaMagicaNotFoundAdvice.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Controller\rest\ChicaMagicaRestController.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\Main.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\model\ChicaMagica.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\repository\ChicaMagicaRepository.java
+C:\Users\Fircr\Desktop\proyecto\Chicas_Magicas\ProyectoCorte1\proyectocorte1\src\main\java\com\github\chicasmagicas\service\exception\ChicaMagicaNotFoundException.java

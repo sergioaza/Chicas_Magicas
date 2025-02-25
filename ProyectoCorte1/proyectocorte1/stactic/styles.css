@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.contenedor {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Botón por defecto (Editar, Agregar, Buscar) */
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #c76dcf; /* Lila */
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #b952b9; /* Lila más oscuro */
+}
+
+/* Botón de eliminar en rojo */
+.eliminar {
+    background-color: #d9534f; /* Rojo */
+}
+
+.eliminar:hover {
+    background-color: #c9302c; /* Rojo más oscuro */
+}
+
+.oculto {
+    display: none;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #b952b9;
+    color: white;
+}
+
+#tablaContainer {
+    margin-top: 20px;
+}
