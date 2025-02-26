@@ -15,7 +15,8 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(@NonNull CorsRegistry registry) {
                 registry.addMapping("/api/**")
-                        .allowedOrigins("http://localhost:8080", "http://127.0.0.1:5500") // Agregado el puerto de Live Server
+                        .allowedOrigins("http://localhost:8080", "http://127.0.0.1:5501") // Agregado el puerto de Live
+                                                                                          // Server
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
@@ -23,4 +24,3 @@ public class CorsConfig {
         };
     }
 }
-
